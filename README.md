@@ -37,9 +37,9 @@ To use the `aera` module a python virtual environment with python>=3.8 is needed
 
 ## Installation
 1. Download the AERA source code from GitHub
-   (https://github.com/flacroix-ubern/AERA)
+   (https://github.com/flacroix-ubern/AERA_until2500)
    ```
-   git clone https://github.com/flacroix-ubern/AERA_until2300
+   git clone https://github.com/flacroix-ubern/AERA_until2500
    ```
 2. Change directory into the repository and check that you are in the correct python virtual environment
    (if you don't know what that means, have a look [here](https://docs.python.org/3/tutorial/venv.html)
