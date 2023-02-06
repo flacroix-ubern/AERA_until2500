@@ -1,3 +1,5 @@
+This is a fork of the original AERA repository (https://github.com/Jete90/AERA) in order to extent possible emission time series until 2500
+
 THE DOCUMENTATION IS CURRENTLY BEING UPDATED AND 
 SOME FILES MIGHT STILL CONTAIN OUTDATED COMMENTS!
 
