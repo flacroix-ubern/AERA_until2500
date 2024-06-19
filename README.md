@@ -179,15 +179,5 @@ specifies how the temperature target is interpreted. This can always be set to 1
 
 The function returns a pandas.Series object (similar to a numpy array) containing near-future annual globally integrated FF emissions. These values are then used to generate a new emission file for the model which is used for the next five years-cycle.
 
-### Get started
-To get started, please first have a look at the provided [examples](https://github.com/Jete90/AERA/tree/main/examples). There are plenty of comments in theses scripts to help you understand how the `aera` module should be used.
 
-Once you understand the examples, you can couple the AERA to your model using a [template script](https://github.com/Jete90/AERA/tree/main/templates/template1.py), which should help you to use the AERA with your specific model. The template script will guide you by several 'TODO' comments. In the same directory there is also a "filled out" [template](https://github.com/Jete90/AERA/tree/main/templates/template1_filled_gfdl.py) which was used to call AERA when used with the GFDL-ESM2M model at the Swiss National Supercomputing Centre. Thus, if you are not sure how you should adjust the template to your model, you can have a look at how it was done for GFDL-ESM2M.
-
-## Contributions:
-- Jens Terhaar (jens.terhaar@unibe.ch)
-- Mathias Aschwanden (mathias.aschwanden@unibe.ch)
-- Thomas Frölicher (thomas.froelicher@unibe.ch)
-- Fortunat Joos (fortunat.joos@unibe.ch)
-- Pierre Friedlingstein (p.friedlingstein@exeter.ac.uk)
 
